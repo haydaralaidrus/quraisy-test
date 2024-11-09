@@ -1,3 +1,5 @@
 # Quraisy Test
 
-Ini repository buat Quraisy belajar pake Git.
+Ini repositori buat Quraisy belajar pake Git.
+
+Skibidi tambahan dikit.
